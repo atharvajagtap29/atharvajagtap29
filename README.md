@@ -13,7 +13,7 @@
 🎓 **MSc CS & BSc CS** from Savitribai Phule Pune University, Pune, India  
 
 🔧 **Expertise**:  
-- Software Development  
+- FullStack Development  
 - Cloud Solutions (AWS, Terraform, and more)  
 - AI/ML & Generative AI  
 - Infrastructure as Code (IaC) 
