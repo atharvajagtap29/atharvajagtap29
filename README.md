@@ -32,7 +32,7 @@
   <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="120" height="120"/>
   <img src="https://images.credly.com/size/680x680/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS Certified AI Practitioner Early Adopter" width="120" height="120"/>
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="120" height="120"/>
-  <img src="https://images.credly.com/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob">
+  <img src="your-terraform-cert-image-url" alt="Terraform Certified" width="120" height="120" />
 </p>
 
 
