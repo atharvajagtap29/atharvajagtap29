@@ -13,14 +13,27 @@
 
 ### 👋 About Me
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 I'm **Atharva Jagtap**, a Software Developer at **Cloud.in**, Pune.
 
-🎓 Completed **Masters in Computer Science** and **Bachelors in Computer Science** from *Savitribai Phule Pune University*  
-💼 Currently working on **full-stack application development**, **custom chatbot solutions**, and **Generative AI integrations**  
-☁️ Professional experience includes building and deploying **cloud-native applications** using modern DevOps practices and AWS services
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🎓 **Education**  
+  - Masters in Computer Science  
+  - Bachelors in Computer Science  
+  - *Savitribai Phule Pune University*
+
+- 💼 **Professional Role**  
+  - Full-stack application development  
+  - Custom chatbot solutions  
+  - Generative AI integrations
+
+- ☁️ **Cloud & DevOps**  
+  - Hands-on experience in building and deploying **cloud-native applications**  
+  - Expertise in **AWS services** and **modern DevOps practices**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
 ### 🚀 Tech Stack & Tools
