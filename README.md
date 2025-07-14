@@ -84,7 +84,7 @@ I'm **Atharva Jagtap**, a Software Developer at **Cloud.in**, Pune.
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/atharvajagtap7" target="_blank">
+  <a href="https://www.linkedin.com/in/atharva-jagtap-b5794227a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Atharva%20Jagtap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
